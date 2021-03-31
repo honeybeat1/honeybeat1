@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybeat1&show_icons=true&theme=tokyonight)
+
+
 <!--
 **honeybeat1/honeybeat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
