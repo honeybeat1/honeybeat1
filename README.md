@@ -3,7 +3,7 @@
 sometimes life gives you cheese and i make cheesecake of 'em
 
 
-![honeybeat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybeat1&show_icons=true&theme=tokyonight)
+![honeybeat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybeat1&show_icons=true&theme=nord)
 
 
 <!--
