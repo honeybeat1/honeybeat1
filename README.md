@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=dahyun%20chung%20☁️&fontSize=70)
 
 
+
+
+<div align="center">
+  
 sometimes life gives you cheese and i make cheesecake of 'em
-
-
+  
 ![honeybeat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybeat1&show_icons=true&theme=nord)
-
+</div>
 
 <!--
 **honeybeat1/honeybeat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
