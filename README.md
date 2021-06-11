@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=dahyun%20chung%20☁️&fontSize=70)
+
 
 sometimes life gives you cheese and i make cheesecake of 'em
 
