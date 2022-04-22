@@ -1,11 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=dahyun%20chung%20☁️&fontSize=70)
 
 
+"I solve things for a living"
 
-
-<div align="center">
+<!-- <div align="center"> -->
   
-sometimes life gives you cheese and i make cheesecake of 'em
+  - 🌱 I’m currently learning ... 
+    - Natural Language Processing, Algorithm
+  - 🔭 I’m currently looking on ... 
+    - DA, DS applications related to Contents(OTT, platforms)
+  - 🤔 I’m looking for help with ...
+    - to be Recommendation Algorithm Expert
+  - ⚡ Fun fact: ...
+    - I watch lol games even though I don't play
   
 ![honeybeat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybeat1&show_icons=true&theme=nord)
 </div>
