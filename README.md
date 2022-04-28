@@ -4,15 +4,6 @@
 <!-- <div align="center"> -->
 <div align="center">
   
-   🌱 I’m currently learning ...   
-     Natural Language Processing, Algorithm.   
-   🔭 I’m currently working on ...   
-     DA, DS job applications related to Contents(OTT, platforms)    
-   🤔 I’m looking for help with ...  
-     to be Recommendation Algorithm Expert  
-   ⚡ Fun fact: ...  
-     I film, edit videos as a way to record my life  
-  
 ![honeybeat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybeat1&show_icons=true&theme=nord)
 </div>
 
