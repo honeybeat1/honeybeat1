@@ -12,7 +12,16 @@ for idx, feed in enumerate(rss_feed['entries']):
     feed_date = feed['published_parsed']
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
-markdown_txt = """기본으로 변하지 않을 README.md 값"""
+markdown_txt = """
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=dahyun%20chung%20☁️&fontSize=70)
+
+
+<!-- <div align="center"> -->
+<div align="center">
+  
+![honeybeat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybeat1&show_icons=true&theme=nord)
+</div>
+"""
 readme_txt = f"{markdown_txt}{latest_blog_post_list}"
 
 with open("README.md",'w',encoding='utf-8') as f:
