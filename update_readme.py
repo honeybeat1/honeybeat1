@@ -5,7 +5,7 @@ rss_feed = feedparser.parse(blog_rss_url)
 MAX_POST_NUM = 10
 latest_blog_post_list = ""
 
-for idx, feed in eunmerate(rss_feed['entries']):
+for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
